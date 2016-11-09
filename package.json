@@ -1,0 +1,14 @@
+{
+  "name": "menucool",
+  "version": "1.0.0",
+  "description": "Slicepay Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashank K (Shashankngs@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
